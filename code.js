@@ -1,2 +1,2 @@
 console.log("Welcome to JavaScript");
-const x = (a) => a + a;
+const x = (a) => (a - a) * 2;
